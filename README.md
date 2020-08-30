@@ -12,3 +12,18 @@ send marketing offers to them to prevent them from churning.
  - Pandas
  - Matplotlib
  - Seaborn
+
+## Dataset 
+ - mini_sparkify_event_data.json is the app data that you can play with.
+ - If you have an AWS account, a large dataset(12 GB) has been public on s3n://udacity-dsnd/sparkify/sparkify_event_data.json
+ 
+## Running the notebook
+- First install all the packages stated above.
+- Run the commands below in your working directory to open the project in jupyter:
+```
+git clone https://github.com/chaitanyakasaraneni/sparkify.git
+
+jupyter-notebook
+```
+*Note: You can use jupyter lab either*
+
